@@ -1,4 +1,4 @@
-# Gear-animation-in-blender
+# Involute-gear-animation-in-blender
 
 Project log - driven/driving gear animation. This is my first end-to-end project in Blender. Following a [tutorial](https://www.youtube.com/watch?v=DqBOva04lcE) by O.T. Vinta, I designed two involute gears that are mechanically accurate (actually, there is some pretty clever math involved in the tooth design such that the same pressure is applied between teeth regardless of the angle of interaction).
 
